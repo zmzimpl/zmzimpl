@@ -24,7 +24,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zmzimpl&show_icons=true&locale=en&layout=compact" alt="zmzimpl" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.ko-fi.com/https://ko-fi.com/zmzimpl">
+<a href="https://ko-fi.com/zmzimpl">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
 </a>
 </p>
